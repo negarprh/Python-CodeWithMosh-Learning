@@ -27,6 +27,3 @@ git clone https://github.com/yourusername/Pyhton-CodingWithMosh-Learning.git
 
 I will continue adding new sections as I progress through the course. Stay tuned for more!
 
----
-
-Let me know if you'd like to tweak any part!
