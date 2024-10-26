@@ -10,6 +10,9 @@ This repository contains my progress as I learn Python through the [Code with Mo
 2. **Control Flow**  
    Understanding conditional statements and loops, including `if`, `else`, `elif`, `for`, and `while`.
 
+3. **Functions**  
+   Make Functions, Arguments and types of Functions
+
 ## Purpose
 
 This repository serves as my personal learning log and a way to practice coding while following the tutorials. Feel free to explore the code as I gradually build up my Python skills.
@@ -20,7 +23,7 @@ This repository serves as my personal learning log and a way to practice coding 
 - Clone the repository and navigate through the directories to view or run the code.
 
 ```bash
-git clone https://github.com/yourusername/Pyhton-CodingWithMosh-Learning.git
+git clone https://github.com/negarprh/Python-CodingWithMosh-Learning.git
 ```
 
 ## What's Next?
