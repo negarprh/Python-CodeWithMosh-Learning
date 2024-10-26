@@ -23,7 +23,7 @@ This repository serves as my personal learning log and a way to practice coding 
 - Clone the repository and navigate through the directories to view or run the code.
 
 ```bash
-git clone https://github.com/yourusername/Python-CodingWithMosh-Learning.git
+git clone https://github.com/negarprh/Python-CodingWithMosh-Learning.git
 ```
 
 ## What's Next?
