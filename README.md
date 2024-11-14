@@ -11,7 +11,10 @@ This repository contains my progress as I learn Python through the [Code with Mo
    Understanding conditional statements and loops, including `if`, `else`, `elif`, `for`, and `while`.
 
 3. **Functions**  
-   Make Functions, Arguments and types of Functions
+   Exploring functions in Python, including defining functions, using arguments, and different types of functions like keyword arguments, default arguments, and more.
+
+4. **Data Structures**  
+   An overview of Python's data structures, including lists, tuples, dictionaries, sets, list comprehensions, dictionary comprehensions, and operations like filtering, mapping, and using lambdas.
 
 ## Purpose
 
@@ -23,6 +26,16 @@ This repository serves as my personal learning log and a way to practice coding 
 - Clone the repository and navigate through the directories to view or run the code.
 
 ```bash
+git clone https://github.com/negarprh/Python-CodingWithMosh-Learning.git
+```
+
+## What's Next?
+
+I will continue adding new sections as I progress through the course. Stay tuned for more!
+
+---
+
+Let me know if you’d like further adjustments!
 git clone https://github.com/negarprh/Python-CodingWithMosh-Learning.git
 ```
 
