@@ -1,4 +1,4 @@
-# Python-CodingWithMosh-Learning
+# Python Course: Coding With Mosh 
 
 This repository contains my progress as I learn Python through the [Code with Mosh](https://codewithmosh.com/p/python-programming-course-beginners) course. The code is organized by sections of the course, with each folder representing a specific topic covered.
 
@@ -11,7 +11,10 @@ This repository contains my progress as I learn Python through the [Code with Mo
    Understanding conditional statements and loops, including `if`, `else`, `elif`, `for`, and `while`.
 
 3. **Functions**  
-   Make Functions, Arguments and types of Functions
+   Exploring functions in Python, including defining functions, using arguments, and different types of functions like keyword arguments, default arguments, and more.
+
+4. **Data Structures**  
+   An overview of Python's data structures, including lists, tuples, dictionaries, sets, list comprehensions, dictionary comprehensions, and operations like filtering, mapping, and using lambdas.
 
 ## Purpose
 
@@ -29,4 +32,6 @@ git clone https://github.com/negarprh/Python-CodingWithMosh-Learning.git
 ## What's Next?
 
 I will continue adding new sections as I progress through the course. Stay tuned for more!
+
+
 
