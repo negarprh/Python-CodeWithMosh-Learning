@@ -1,4 +1,4 @@
-# Python-CodingWithMosh-Learning
+# Python Course: Coding With Mosh 
 
 This repository contains my progress as I learn Python through the [Code with Mosh](https://codewithmosh.com/p/python-programming-course-beginners) course. The code is organized by sections of the course, with each folder representing a specific topic covered.
 
