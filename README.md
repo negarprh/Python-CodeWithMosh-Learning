@@ -33,13 +33,5 @@ git clone https://github.com/negarprh/Python-CodingWithMosh-Learning.git
 
 I will continue adding new sections as I progress through the course. Stay tuned for more!
 
----
 
-Let me know if you’d like further adjustments!
-git clone https://github.com/negarprh/Python-CodingWithMosh-Learning.git
-```
-
-## What's Next?
-
-I will continue adding new sections as I progress through the course. Stay tuned for more!
 
