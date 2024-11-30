@@ -7,6 +7,7 @@ except (ValueError, ZeroDivisionError):
     print("You did not enter the valid input")
 else:
     print("No exception will thrown")
-finally:  # Finally clause will always excecute whatever we have a exception or not, We will use it to release external resourses
+finally:
+    # Finally clause will always excecute whatever we have a exception or not, We will use it to release external resourses
     # it is a prefrect place to close files, database connection or network connections
     file.close()
